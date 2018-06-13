@@ -18,6 +18,11 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote  name="akh"
+           fetch="https://github.com/akhetaton"
+           sync-c="true"
+           sync-j="4" />
+
   <remote  name="crdroid"
            fetch="https://github.com/"
            sync-c="true"
